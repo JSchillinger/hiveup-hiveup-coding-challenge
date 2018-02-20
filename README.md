@@ -1,4 +1,4 @@
-# hiveup-coding-challenge
+# Please read the following instructions carefully
 
 The challenge
 -----------------------------------------------------------------------------------------
