@@ -18,6 +18,13 @@ General Instructions
 5. At the end of your code please add a paragraph explaining your thought process, strategy involved and any other comments you would like to give.
 
 
+Tools you need
+-----------------------------------------------------------------------------------------
+
+1. GitHub account (prelimnary knowledge will be helpful)
+2. IDE: Visual Studio Code OR Atom
+3. Google Chrome or any other browser for checking the progress of your work
+
 
 Submission and Deadline
 -----------------------------------------------------------------------------------------
