@@ -6,7 +6,7 @@ The challenge
 This code test consists of three parts:
 1. Binary Calculator (HTML, CSS, Javascript)
 2. Nikki and Charlie's Game (Game Theory Assessment)
-3. Small Hard Project 2 (Mathematical Theory Implementation)
+3. Find the Letter (Mathematical Theory Implementation)
 
 General Instructions
 ------------------------------------------------------------------------------------------
@@ -32,4 +32,10 @@ Nikki and Charlie's Game
 Please follow the instructions provided on the attached wiki link:
 
 https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Nikki-and-Charlie's-Game
+
+
+Find the Letter
+------------------------------------------------------------------------------------------
+
+Please follow the instructions provided on the attached wiki link:
 
