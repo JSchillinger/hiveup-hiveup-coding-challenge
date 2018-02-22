@@ -39,3 +39,4 @@ Find the Letter
 
 Please follow the instructions provided on the attached wiki link:
 
+https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Find-the-Letter
