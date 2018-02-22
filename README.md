@@ -18,6 +18,13 @@ General Instructions
 5. At the end of your code please add a paragraph explaining your thought process, strategy involved and any other comments you would like to give.
 
 
+
+Submission and Deadline
+-----------------------------------------------------------------------------------------
+
+There is no set deadline for the completion of this task, but prompt responses are much appreciated. As the positions are limited and very competitive...
+
+
 Binary Calculator
 -----------------------------------------------------------------------------------------
 
