@@ -26,6 +26,14 @@ Tools you need
 3. Google Chrome or any other browser for checking the progress of your work
 
 
+Things that will get our attention
+-----------------------------------------------------------------------------------------
+
+1. How quickly you learn and get the challenge done
+2. How easy it is for someone else to understand the code you wrote and easily extend the functionality
+3. Does your code compile, does it do the job as expected, is it bug-free, how does it handle exceptional situations?
+
+
 Submission and Deadline
 -----------------------------------------------------------------------------------------
 
