@@ -24,3 +24,12 @@ Binary Calculator
 Please follow the instructions provided on the attached wiki link:
 
 https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Binary-Calculator
+
+
+Alice and Bob's Game
+------------------------------------------------------------------------------------------
+
+Please follow the instructions provided on the attached wiki link:
+
+
+
