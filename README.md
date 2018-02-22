@@ -5,7 +5,7 @@ The challenge
 
 This code test consists of three parts:
 1. Binary Calculator (HTML, CSS, Javascript)
-2. Alice and Bob's Game (Game Theory Assessment)
+2. Nikki and Charlie's Game (Game Theory Assessment)
 3. Small Hard Project 2 (Mathematical Theory Implementation)
 
 General Instructions
@@ -26,10 +26,10 @@ Please follow the instructions provided on the attached wiki link:
 https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Binary-Calculator
 
 
-Alice and Bob's Game
+Nikki and Charlie's Game
 ------------------------------------------------------------------------------------------
 
 Please follow the instructions provided on the attached wiki link:
 
-https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Alice-and-Bob's-Game
+https://github.com/hiveup-dev/hiveup-coding-challenge/wiki/Nikki-and-Charlie's-Game
 
