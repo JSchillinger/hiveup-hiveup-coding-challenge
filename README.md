@@ -11,6 +11,7 @@ This code test consists of three parts:
 General Instructions
 ------------------------------------------------------------------------------------------
 
+1. Create a new GitHub repository name HiveUp-'YourName'. Please make it a public repository and send a link to us.
 1. Complete each project using efficient code.
 2. Add comments for major steps in your code.
 3. Include a brief header paragraph explaining your code.
@@ -37,7 +38,7 @@ Things that will get our attention
 Submission and Deadline
 -----------------------------------------------------------------------------------------
 
-There is no set deadline for the completion of this task, but prompt responses are much appreciated. As the positions are limited and very competitive...
+As the positions are limited and very competitive please send in your code to us as soon as possible.
 
 
 Binary Calculator
